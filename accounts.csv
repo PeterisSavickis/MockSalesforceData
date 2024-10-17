@@ -1,0 +1,11 @@
+AccountId,AccountName,AccountNumber,Industry,AnnualRevenue,Phone,Website,BillingCity,BillingCountry,OwnerId,CreatedDate
+0011A00000bvc8vQAA,Green Solutions,GS-10006,Energy,1850000.0,678-901-2345,http://greensolutions.com,Denver,USA,0051A000000f8BV,2023-09-06 15:23:12.000000 UTC
+0011A00000bvc8tQAA,Blue Ocean,BO-10004,Retail,2400000.0,456-789-0123,http://blueocean.com,Miami,USA,0051A000000f8BT,2023-09-04 16:45:33.000000 UTC
+0011A00000bvc8rQAA,Global Tech,GT-10002,Consulting,3200000.0,234-567-8901,http://globaltech.com,New York,USA,0051A000000f8BR,2023-09-02 09:21:18.000000 UTC
+0011A00000bvc8zQAA,Summit Consulting,SC-10010,Consulting,450000.0,012-345-6789,http://summitconsulting.com,Boston,USA,0051A000000f8BZ,2023-09-10 09:13:29.000000 UTC
+0011A00000bvc8qQAA,Acme Corporation,ACM-10001,Technology,1500000.0,123-456-7890,http://acme.com,San Francisco,USA,0051A000000f8BQ,2023-09-01 12:34:56.000000 UTC
+0011A00000bvc8xQAA,Eagle Tech,ET-10008,Technology,2950000.0,890-123-4567,http://eagletech.com,Seattle,USA,0051A000000f8BX,2023-09-08 17:54:09.000000 UTC
+0011A00000bvc8uQAA,Tech Innovators,TI-10005,Technology,5300000.0,567-890-1234,http://techinnovators.com,Austin,USA,0051A000000f8BU,2023-09-05 11:12:24.000000 UTC
+0011A00000bvc8wQAA,Mountain Enterprises,ME-10007,Hospitality,760000.0,789-012-3456,http://mountainenterprises.com,Los Angeles,USA,0051A000000f8BW,2023-09-07 13:01:47.000000 UTC
+0011A00000bvc8sQAA,Sunrise Industries,SUN-10003,Manufacturing,870000.0,345-678-9012,http://sunrise.com,Chicago,USA,0051A000000f8BS,2023-09-03 14:10:45.000000 UTC
+0011A00000bvc8yQAA,Pine Valley Foods,PVF-10009,Food & Beverage,1120000.0,901-234-5678,http://pinevalley.com,Portland,USA,0051A000000f8BY,2023-09-09 10:27:38.000000 UTC
